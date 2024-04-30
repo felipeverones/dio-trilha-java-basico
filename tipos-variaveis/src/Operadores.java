@@ -26,5 +26,10 @@ public class Operadores {
         System.out.println(concatenacao);
         //como aqui estava em parênteses, fez a soma primeiro;
 
+
+        int numero = 5;
+        System.out.println(- numero); //sout + TAB ou ENTER para completar
+
+        //usar equals para comparar objetos e strings(que tbm são objetos)
     }
 }
